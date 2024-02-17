@@ -17,7 +17,7 @@ function Header() {
                         </NavLink>
                     </li>
                     <NavLink exact to="/donate" id="yo">
-                        <li>Donate</li>
+                        <li>Group</li>
                     </NavLink>
                 </ul>
             </div>
