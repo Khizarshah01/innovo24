@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './styles.css'; // Import CSS file
+import './harsh.css'; // Import CSS file
 import quest from './questions.json';
 
 const Test = () => {
@@ -40,7 +40,7 @@ const Test = () => {
     };
 
     return (
-        <div className="container1">
+        <div className="containerh">
             <h1>IQ Test</h1>
             {questions.length > 0 && (
                 <div>
