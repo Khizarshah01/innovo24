@@ -1,15 +1,11 @@
 
 
 import React from "react";
-
+import "../style/Header.css"
 import { NavLink } from "react-router-dom";
 
 function Header() {
   return (
-    
-
-
-    
 
         <div className="container">
           <div className="diver" id="firstdiver">
