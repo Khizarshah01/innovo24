@@ -7,6 +7,7 @@ function App() {
     return (
        <BrowserRouter>
           <div>
+            <Header />
 <Routes> 
 
             <Home />

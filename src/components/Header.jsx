@@ -1,9 +1,7 @@
 
 
 import React from "react";
-import "./Header.css";
-import github from "../images/github.png";
-import fork from "../images/fork.png";
+
 import { NavLink } from "react-router-dom";
 
 function Header() {
@@ -40,8 +38,7 @@ function Header() {
               <span className="slider" />
             </label>
     
-            <img id="fork" src={fork} alt="fork" />
-            <img id="github" src={github} alt="github" />
+         
           </div>
         </div>
 
