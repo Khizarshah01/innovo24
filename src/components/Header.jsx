@@ -1,4 +1,4 @@
-import "../style/Header.css"
+import "../style/Header.css";
 import { NavLink } from "react-router-dom";
 
 function Header() {
@@ -12,14 +12,12 @@ function Header() {
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/about" id="yo">
-                            About
+                        <NavLink exact to="/Council" id="yo">
+                            Council
                         </NavLink>
                     </li>
                     <NavLink exact to="/donate" id="yo">
-                        <li>
-                            Donate
-                        </li>
+                        <li>Donate</li>
                     </NavLink>
                 </ul>
             </div>
@@ -34,4 +32,4 @@ function Header() {
     );
 }
 
-export default Header
+export default Header;
