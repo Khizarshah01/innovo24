@@ -7,28 +7,22 @@ function Header() {
             <div className="diver" id="firstdiver">
                 <ul>
                     <li>
-                        <NavLink exact to="/" id="yo">
+                        <NavLink exact={"true"} to="/" id="yo">
                             Home
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink exact to="/Council" id="yo">
+                        <NavLink exact={"true"} to="/Council" id="yo">
                             Council
                         </NavLink>
                     </li>
-                    <NavLink exact to="/donate" id="yo">
+                    <NavLink exact={"true"} to="/donate" id="yo">
                         <li>Group</li>
                     </NavLink>
-                </ul>
-            </div>
+                </ul >
+            </div >
 
-            <div className="diver2">
-                <label className="switch">
-                    <input type="checkbox" />
-                    <span className="slider" />
-                </label>
-            </div>
-        </div>
+        </div >
     );
 }
 
