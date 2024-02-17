@@ -1,6 +1,10 @@
+import Test from "./Council/Test";
+
 function Council() {
     return (
-        <h1>Council</h1>
+        <div>
+            <Test />
+        </div>
     )
 }
 
