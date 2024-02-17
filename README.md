@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-innova24
+innova24 :  https://charming-fenglisu-2b3751.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
