@@ -1,12 +1,20 @@
 import Home from "./components/Home";
 import Council from "./components/Council";
+import Header from "./components/Header";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
     return (
-        <div className="App">
+       <BrowserRouter>
+          <div>
+<Routes> 
+
             <Home />
-            <Council path="/council" />
-        </div>
+            <Route path="/council" element={<Council/>}/>
+</Routes>
+          </div>
+        </BrowserRouter>
+        
     );
 }
 
