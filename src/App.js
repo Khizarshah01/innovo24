@@ -5,6 +5,7 @@ import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Group from "./components/Group";
 import Counciler from "./components/Counciler";
 import Test from "./components/Council/Test";
+import CouncilPro from "./components/CounselorProfile";
 function App() {
     return (
         <BrowserRouter>
@@ -16,6 +17,7 @@ function App() {
                     <Route path="/council" element={<Council />} />
                     <Route path="/Councilers" element={<Counciler />}/>
                     <Route path="/Test" element={<Test />}/>
+                    <Route path="/CouncilProfile" element={<CouncilPro />} />
                 </Routes>
             </div>
         </BrowserRouter>
