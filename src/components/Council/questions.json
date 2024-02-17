@@ -1,0 +1,104 @@
+{
+    "questions": [
+        {
+            "question": "What comes next in the sequence? 2, 4, 6, 8, ___.",
+            "options": [
+                "A) 10",
+                "B) 12",
+                "C) 14",
+                "D) 16"
+            ],
+            "answer": "B) 12"
+        },
+        {
+            "question": "Which of the following words is most similar in meaning to \"diligent\"?",
+            "options": [
+                "A) Lazy",
+                "B) Hardworking",
+                "C) Careless",
+                "D) Passive"
+            ],
+            "answer": "B) Hardworking"
+        },
+        {
+            "question": "What is the antonym of the word \"benevolent\"?",
+            "options": [
+                "A) Kind",
+                "B) Generous",
+                "C) Malevolent",
+                "D) Compassionate"
+            ],
+            "answer": "C) Malevolent"
+        },
+        {
+            "question": "Complete the analogy: Apple is to fruit as potato is to ________.",
+            "options": [
+                "A) Vegetable",
+                "B) Meat",
+                "C) Grain",
+                "D) Dairy"
+            ],
+            "answer": "A) Vegetable"
+        },
+        {
+            "question": "Which of the following words means the opposite of \"fastidious\"?",
+            "options": [
+                "A) Meticulous",
+                "B) Sloppy",
+                "C) Careful",
+                "D) Picky"
+            ],
+            "answer": "B) Sloppy"
+        },
+        {
+            "question": "What is the synonym for the word \"exuberant\"?",
+            "options": [
+                "A) Sad",
+                "B) Energetic",
+                "C) Tired",
+                "D) Boring"
+            ],
+            "answer": "B) Energetic"
+        },
+        {
+            "question": "Identify the odd word out: Apple, Orange, Banana, Chair, Pear",
+            "options": [
+                "A) Apple",
+                "B) Chair",
+                "C) Orange",
+                "D) Pear"
+            ],
+            "answer": "B) Chair"
+        },
+        {
+            "question": "Which word does not belong in the group? Cat, Dog, Bird, Banana, Mouse",
+            "options": [
+                "A) Bird",
+                "B) Banana",
+                "C) Cat",
+                "D) Mouse"
+            ],
+            "answer": "B) Banana"
+        },
+        {
+            "question": "Choose the correct spelling:",
+            "options": [
+                "A) Pheonix",
+                "B) Phenoix",
+                "C) Phoenix",
+                "D) Phenix"
+            ],
+            "answer": "C) Phoenix"
+        },
+        {
+            "question": "Complete the sentence: The concert was ________, and everyone had a great time.",
+            "options": [
+                "A) Boring",
+                "B) Exciting",
+                "C) Tedious",
+                "D) Monotonous"
+            ],
+            "answer": "B) Exciting"
+        }
+    ]
+}
