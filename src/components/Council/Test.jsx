@@ -8,14 +8,13 @@ const Test = () => {
     const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
     const [userAnswer, setUserAnswer] = useState('');
     const [showResult, setShowResult] = useState(false); // Define showResult state
-    const resultElem = <div id="result"></div>;
 
     useEffect(() => {
         loadQuestions();
     }, []);
 
     const loadQuestions = () => {
-                setQuestions(quest.questions);
+        setQuestions(quest.questions);
     };
 
     const handleOptionChange = (e) => {
@@ -38,6 +37,8 @@ const Test = () => {
         }
         setUserAnswer('');
     };
+
+    const resultElem = <div id="result">Your Score: {score}</div>; // Moved inside the component
 
     return (
         <div className="containerh">
