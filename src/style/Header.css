@@ -7,7 +7,8 @@
     z-index: 100;
     top: 0;
     font-family: 'Roboto Slab', serif;
-    background-color: transparent;
+    background-color: white;
+    /* background-color: transparent; */
 }
 
 .diver{
@@ -78,9 +79,9 @@
     border-radius: 20px;
 }
 
-input:checked + .slider{
-    background-color: var(--background-color);
-}
+/* input:checked + .slider{
+    
+} */
 
 input:checked + .slider::before{
     transform: translateX(26px);
@@ -102,14 +103,13 @@ li{
 }
 
 #yo{
-    color: var(--front-color);
     text-decoration: none;
     font-size: 25px;
+    color: black;
 }
 
 li::before{
     content: "";
-    background-color: var(--second-primary-color);
     position: absolute;
     left: 0;
     bottom: -0.2rem;
@@ -120,7 +120,6 @@ li::before{
 
 li:hover::before{
     content: "";
-    background-color: var(--second-primary-color);
     position: absolute;
     left: 0;
     bottom: -0.2rem;
