@@ -4,17 +4,17 @@ import Header from "./components/Header";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 function App() {
-  return (
-    <BrowserRouter>
-      <div>
-        <Header />
-        <Routes>
-        <Route path="/" element={<Home />} />
-          <Route path="/council" element={<Council />} />
-        </Routes>
-      </div>
-    </BrowserRouter>
-  );
+    return (
+        <BrowserRouter>
+            <div>
+                <Header />
+                <Routes>
+                    <Route path="/" element={<Home />} />
+                    <Route path="/council" element={<Council />} />
+                </Routes>
+            </div>
+        </BrowserRouter>
+    );
 }
 
 export default App;
