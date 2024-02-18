@@ -1,104 +1,995 @@
 {
-    "questions": [
-        {
-            "question": "What comes next in the sequence? 2, 4, 6, 8, ___.",
-            "options": [
-                "A) 10",
-                "B) 12",
-                "C) 14",
-                "D) 16"
-            ],
-            "answer": "B) 12"
+  "questions": [
+      {
+          "question": "Analogies: Engineer is to blueprint as architect is to _.",
+          "options": [
+            "a) Design",
+            "b) Blueprint",
+            "c) Plan",
+            "d) Structure"
+  ],
+          "answer": "c"
         },
         {
-            "question": "Which of the following words is most similar in meaning to \"diligent\"?",
-            "options": [
-                "A) Lazy",
-                "B) Hardworking",
-                "C) Careless",
-                "D) Passive"
-            ],
-            "answer": "B) Hardworking"
+          "question": "Synonyms: Select the word that is closest in meaning to \"aptitude.\"",
+          "options": [
+            "a) Talent",
+            "b) Ineptitude",
+            "c) Ability",
+            "d) Skill"
+          ],
+          "answer": "a"
         },
         {
-            "question": "What is the antonym of the word \"benevolent\"?",
-            "options": [
-                "A) Kind",
-                "B) Generous",
-                "C) Malevolent",
-                "D) Compassionate"
-            ],
-            "answer": "C) Malevolent"
+          "question": "Antonyms: Choose the word that is the opposite of \"adversity.\"",
+          "options": [
+            "a) Prosperity",
+            "b) Difficulty",
+            "c) Misfortune",
+            "d) Hardship"
+          ],
+          "answer": "a"
         },
         {
-            "question": "Complete the analogy: Apple is to fruit as potato is to ________.",
-            "options": [
-                "A) Vegetable",
-                "B) Meat",
-                "C) Grain",
-                "D) Dairy"
-            ],
-            "answer": "A) Vegetable"
+          "question": "Complete the Sentence: \"To excel in a competitive job market, it's essential to ____.\"",
+          "options": [
+            "a) Network effectively",
+            "b) Work hard",
+            "c) Have a strong resume",
+            "d) All of the above"
+          ],
+          "answer": "d"
         },
         {
-            "question": "Which of the following words means the opposite of \"fastidious\"?",
-            "options": [
-                "A) Meticulous",
-                "B) Sloppy",
-                "C) Careful",
-                "D) Picky"
-            ],
-            "answer": "B) Sloppy"
+          "question": "Sentence Completion: \"Effective communication skills are crucial for successful ___.\"",
+          "options": [
+            "a) Leadership",
+            "b) Collaboration",
+            "c) Innovation",
+            "d) All of the above"
+          ],
+          "answer": "d"
         },
         {
-            "question": "What is the synonym for the word \"exuberant\"?",
-            "options": [
-                "A) Sad",
-                "B) Energetic",
-                "C) Tired",
-                "D) Boring"
-            ],
-            "answer": "B) Energetic"
+          "question": "Analogies: Lawyer is to courtroom as teacher is to _.",
+          "options": [
+            "a) Classroom",
+            "b) Whiteboard",
+            "c) Textbook",
+            "d) Lesson"
+          ],
+          "answer": "a"
         },
         {
-            "question": "Identify the odd word out: Apple, Orange, Banana, Chair, Pear",
-            "options": [
-                "A) Apple",
-                "B) Chair",
-                "C) Orange",
-                "D) Pear"
-            ],
-            "answer": "B) Chair"
+          "question": "Synonyms: Choose the word that means the same as \"tenacity.\"",
+          "options": [
+            "a) Flexibility",
+            "b) Perseverance",
+            "c) Fragility",
+            "d) Inconsistency"
+          ],
+          "answer": "b"
         },
         {
-            "question": "Which word does not belong in the group? Cat, Dog, Bird, Banana, Mouse",
-            "options": [
-                "A) Bird",
-                "B) Banana",
-                "C) Cat",
-                "D) Mouse"
-            ],
-            "answer": "B) Banana"
+          "question": "Antonyms: Select the word that is the opposite of \"ambitious.\"",
+          "options": [
+            "a) Determined",
+            "b) Lazy",
+            "c) Driven",
+            "d) Aspiring"
+          ],
+          "answer": "b"
         },
         {
-            "question": "Choose the correct spelling:",
-            "options": [
-                "A) Pheonix",
-                "B) Phenoix",
-                "C) Phoenix",
-                "D) Phenix"
-            ],
-            "answer": "C) Phoenix"
+          "question": "Complete the Sentence: \"Career assessments can help individuals understand their _____ and interests.\"",
+          "options": [
+            "a) Strengths",
+            "b) Weaknesses",
+            "c) Skills",
+            "d) All of the above"
+          ],
+          "answer": "d"
         },
         {
-            "question": "Complete the sentence: The concert was ________, and everyone had a great time.",
-            "options": [
-                "A) Boring",
-                "B) Exciting",
-                "C) Tedious",
-                "D) Monotonous"
-            ],
-            "answer": "B) Exciting"
-        }
+          "question": "Sentence Completion: \"Continuous learning is essential for _____ advancement.\"",
+          "options": [
+            "a) Personal",
+            "b) Professional",
+            "c) Financial",
+            "d) Social"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Analogies: Doctor is to patient as therapist is to _.",
+          "options": [
+            "a) Diagnosis",
+            "b) Treatment",
+            "c) Client",
+            "d) Counseling"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "Synonyms: Choose the word that is synonymous with \"resourceful.\"",
+          "options": [
+            "a) Inventive",
+            "b) Inept",
+            "c) Limited",
+            "d) Careless"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Antonyms: Select the word that is the opposite of \"innovative.\"",
+          "options": [
+            "a) Creative",
+            "b) Conventional",
+            "c) Original",
+            "d) Imaginative"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Complete the Sentence: \"Networking events provide opportunities to ____ with professionals in your field.\"",
+          "options": [
+            "a) Socialize",
+            "b) Connect",
+            "c) Learn",
+            "d) All of the above"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "Sentence Completion: \"Having a growth mindset is essential for _____ development.\"",
+          "options": [
+            "a) Personal",
+            "b) Professional",
+            "c) Emotional",
+            "d) Intellectual"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Analogies: Scientist is to laboratory as artist is to _.",
+          "options": [
+            "a) Museum",
+            "b) Studio",
+            "c) Gallery",
+            "d) Stage"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Synonyms: Choose the word that means the same as \"versatile.\"",
+          "options": [
+            "a) Limited",
+            "b) Flexible",
+            "c) Specialized",
+            "d) Singular"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Antonyms: Select the word that is the opposite of \"collaborative.\"",
+          "options": [
+            "a) Cooperative",
+            "b) Independent",
+            "c) Teamwork",
+            "d) Unified"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Complete the Sentence: \"Career counseling sessions can help individuals explore various ____ paths.\"",
+          "options": [
+            "a) Professional",
+            "b) Academic",
+            "c) Vocational",
+            "d) All of the above"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "Sentence Completion: \"Building a strong personal brand is crucial for _____ success.\"",
+          "options": [
+            "a) Career",
+            "b) Financial",
+            "c) Social",
+            "d) All of the above"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the total compensation for an employee earning a Rs 40,000 salary with a 15% annual bonus?",
+          "options": [
+            "a) Rs 44,000",
+            "b) Rs 46,000",
+            "c) Rs 50,000",
+            "d) Rs 54,000"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "If a certification program costs Rs 800 and lasts for 4 months, what is the monthly cost?",
+          "options": [
+            "a) Rs 100",
+            "b) Rs 200",
+            "c) Rs 300",
+            "d) Rs 400"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "A company contributes 8% of an employee's Rs 50,000 annual salary to their retirement fund. How much will the company contribute each year?",
+          "options": [
+            "a) Rs 3,500",
+            "b) Rs 4,000",
+            "c) Rs 4,500",
+            "d) Rs 5,000"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If a student earns Rs 500 per week from a part-time job and saves 20% of their earnings, how much do they save each week?",
+          "options": [
+            "a) Rs 50",
+            "b) Rs 75",
+            "c) Rs 100",
+            "d) Rs 125"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "An internship pays Rs 12 per hour, and an intern works 25 hours per week. What is their weekly earnings?",
+          "options": [
+            "a) Rs 250",
+            "b) Rs 275",
+            "c) Rs 300",
+            "d) Rs 325"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If a job applicant scores 85% on a skills assessment test with 60 questions, how many questions did they answer correctly?",
+          "options": [
+            "a) 48",
+            "b) 51",
+            "c) 54",
+            "d) 57"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "A scholarship covers 75% of tuition fees, which are Rs 8,000 per semester. How much does the student need to pay after receiving the scholarship?",
+          "options": [
+            "a) Rs 1,500",
+            "b) Rs 2,000",
+            "c) Rs 2,500",
+            "d) Rs 3,000"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "An employee receives a 5% raise each year. If their current salary is Rs 60,000, what will their salary be after 3 years?",
+          "options": [
+            "a) Rs 66,000",
+            "b) Rs 69,300",
+            "c) Rs 72,600",
+            "d) Rs 76,000"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If a company's quarterly revenue is Rs 750,000 and its quarterly expenses are Rs 500,000, what is its quarterly profit?",
+          "options": [
+            "a) Rs 150,000",
+            "b) Rs 250,000",
+            "c) Rs 350,000",
+            "d) Rs 450,000"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "A career training program costs Rs 3,000 and lasts for 9 months. How much does the program cost per month?",
+          "options": [
+            "a) Rs 250",
+            "b) Rs 300",
+            "c) Rs 350",
+            "d) Rs 400"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "If a student's monthly income is Rs 1,500 and they spend 40% of it on rent, how much do they spend on rent each month?",
+          "options": [
+            "a) Rs 400",
+            "b) Rs 500",
+            "c) Rs 600",
+            "d) Rs 700"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "A company's profit margin is 25%, and its revenue is Rs 200,000. What is its profit?",
+          "options": [
+            "a) Rs 40,000",
+            "b) Rs 50,000",
+            "c) Rs 60,000",
+            "d) Rs 70,000"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "An employee earns Rs 25 per hour and works 40 hours per week. What is their weekly gross income?",
+          "options": [
+            "a) Rs 800",
+            "b) Rs 900",
+            "c) Rs 1,000",
+            "d) Rs 1,100"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If a company's expenses are 60% of its revenue, and its revenue is Rs 300,000, what are its expenses?",
+          "options": [
+            "a) Rs 150,000",
+            "b) Rs 180,000",
+            "c) Rs 200,000",
+            "d) Rs 240,000"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "A career development course costs Rs 500 and lasts for 5 weeks. What is the total cost of the course?",
+          "options": [
+            "a) Rs 1,500",
+            "b) Rs 2,000",
+            "c) Rs 2,500",
+            "d) Rs 3,000"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "If a student needs to save Rs 2,000 in 6 months, how much do they need to save each month?",
+          "options": [
+            "a) Rs 200",
+            "b) Rs 250",
+            "c) Rs 300",
+            "d) Rs 350"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "A job offers a signing bonus of 10% of the annual salary. If the annual salary is Rs 45,000, what is the signing bonus?",
+          "options": [
+            "a) Rs 4,000",
+            "b) Rs 4,500",
+            "c) Rs 5,000",
+            "d) Rs 5,500"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "If a company's annual revenue is Rs 1,200,000 and its annual expenses are Rs 800,000, what is its net profit?",
+          "options": [
+            "a) Rs 200,000",
+            "b) Rs 300,000",
+            "c) Rs 400,000",
+            "d) Rs 500,000"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "A student loan debt of Rs 20,000 has an interest rate of 6% annually. How much interest will be paid in the first year?",
+          "options": [
+            "a) Rs 1,000",
+            "b) Rs 1,200",
+            "c) Rs 1,400",
+            "d) Rs 1,600"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "If a company's monthly revenue is Rs 50,000 and its monthly expenses are Rs 30,000, what is its monthly profit?",
+          "options": [
+            "a) Rs 10,000",
+            "b) Rs 15,000",
+            "c) Rs 20,000",
+            "d) Rs 25,000"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If all engineers are problem solvers, and some problem solvers are creative thinkers, can we conclude that:",
+          "options": [
+            "a) All engineers are creative thinkers.",
+            "b) Some engineers are creative thinkers.",
+            "c) All creative thinkers are engineers.",
+            "d) Some creative thinkers are engineers."
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "Statement: Effective time management is essential for career success.\nConclusion: People who struggle with time management cannot succeed in their careers.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Is unrelated to the statement.",
+            "d) Contradicts the statement."
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "If all successful managers are good communicators, and Tom is a good communicator, can we conclude that:",
+          "options": [
+            "a) Tom is a successful manager.",
+            "b) All good communicators are successful managers.",
+            "c) Some successful managers are not good communicators.",
+            "d) None of the above."
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Statement: All effective leaders are visionaries.\nConclusion: Mary is a visionary; therefore, she is an effective leader.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "If only individuals with relevant qualifications are hired as consultants, and all consultants have excellent problem-solving skills, can we conclude that:",
+          "options": [
+            "a) All individuals with relevant qualifications have excellent problem-solving skills.",
+            "b) All individuals with excellent problem-solving skills have relevant qualifications.",
+            "c) Some individuals with relevant qualifications have excellent problem-solving skills.",
+            "d) Some individuals with excellent problem-solving skills have relevant qualifications."
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "Statement: Leadership qualities can be developed through training and experience.\nConclusion: Anyone can become a great leader with the right training and opportunities.\nThis conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "If only individuals with programming skills are hired as software engineers, and some software engineers are not proficient in Java, can we conclude that:",
+          "options": [
+            "a) Not all individuals with programming skills are proficient in Java.",
+            "b) All individuals with programming skills are proficient in Java.",
+            "c) All software engineers are proficient in Java.",
+            "d) Not all software engineers have programming skills."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Statement: Resilience is a key trait of successful entrepreneurs.\nConclusion: All resilient individuals are successful entrepreneurs.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "If only individuals with management experience are considered for leadership roles, and some leaders are not effective communicators, can we conclude that:",
+          "options": [
+            "a) All individuals with management experience are effective communicators.",
+            "b) All effective communicators have management experience.",
+            "c) Some individuals with management experience are not effective communicators.",
+            "d) All leaders have management experience."
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Statement: Adaptability is essential for career growth.\nConclusion: People who resist change cannot progress in their careers.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "If all successful leaders are visionary, and some visionaries are not successful leaders, can we conclude that:",
+          "options": [
+            "a) Some successful leaders are not visionaries.",
+            "b) All successful leaders are visionaries.",
+            "c) All visionaries are successful leaders.",
+            "d) Some visionaries are successful leaders."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Statement: Problem-solving skills are more valuable than technical expertise in today's job market.\nConclusion: Individuals with strong problem-solving skills have better career prospects than those with technical expertise.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "If all dedicated employees are promoted, and some promoted employees are unhappy with their jobs, can we conclude that:",
+          "options": [
+            "a) Some dedicated employees are unhappy with their jobs.",
+            "b) All dedicated employees are happy with their jobs.",
+            "c) Some dedicated employees are promoted.",
+            "d) All promoted employees are dedicated."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Statement: Career satisfaction is linked to alignment with personal values and interests.\nConclusion: People who prioritize salary over personal values and interests are less likely to be satisfied with their careers.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "If all successful entrepreneurs are risk-takers, and some risk-takers are not successful entrepreneurs, can we conclude that:",
+          "options": [
+            "a) Some successful entrepreneurs are not risk-takers.",
+            "b) All risk-takers are successful entrepreneurs.",
+            "c) All successful entrepreneurs are risk-takers.",
+            "d) Some risk-takers are successful entrepreneurs."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Statement: All effective mentors are good listeners.\nConclusion: Bob is a good listener; therefore, he would make an effective mentor.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "If only individuals with relevant qualifications are hired as accountants, and all accountants are detail-oriented, can we conclude that:",
+          "options": [
+            "a) All individuals with relevant qualifications are detail-oriented.",
+            "b) All detail-oriented individuals are hired as accountants.",
+            "c) Some individuals with relevant qualifications are not detail-oriented.",
+            "d) All detail-oriented individuals have relevant qualifications."
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Statement: Leadership is about empowering others and fostering growth.\nConclusion: A good leader is one who controls and micromanages every aspect of a project.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "If all successful entrepreneurs are resilient, and some resilient individuals are not successful entrepreneurs, can we conclude that:",
+          "options": [
+            "a) Some successful entrepreneurs are not resilient.",
+            "b) All resilient individuals are successful entrepreneurs.",
+            "c) All successful entrepreneurs are resilient.",
+            "d) Some resilient individuals are successful entrepreneurs."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Statement: Critical thinking skills are essential for problem-solving.\nConclusion: People who lack critical thinking skills cannot solve problems effectively.\nIn this argument, the conclusion:",
+          "options": [
+            "a) Strongly follows from the statement.",
+            "b) Weakly follows from the statement.",
+            "c) Contradicts the statement.",
+            "d) Is unrelated to the statement."
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "What is the missing number in the sequence: 2, 4, 6, __, 10?",
+          "options": [
+            "a) 7",
+            "b) 8",
+            "c) 9",
+            "d) 12"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Which of the following words does not belong in the group: Apple, Banana, Orange, Carrot, Chair?",
+          "options": [
+            "a) Apple",
+            "b) Banana",
+            "c) Orange",
+            "d) Chair"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the sum of the numbers: 5, 9, 12, 7, 3?",
+          "options": [
+            "a) 28",
+            "b) 30",
+            "c) 36",
+            "d) 42"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Which of the following shapes is not present in the sequence: Circle, Square, Triangle, Rectangle, Oval?",
+          "options": [
+            "a) Square",
+            "b) Triangle",
+            "c) Rectangle",
+            "d) Oval"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the missing letter in the sequence: A, C, E, G, __?",
+          "options": [
+            "a) I",
+            "b) K",
+            "c) M",
+            "d) O"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the opposite of the word 'Brave'?",
+          "options": [
+            "a) Fearless",
+            "b) Courageous",
+            "c) Timid",
+            "d) Bold"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Which of the following is the odd one out: Dog, Cat, Rabbit, Chair, Bird?",
+          "options": [
+            "a) Dog",
+            "b) Cat",
+            "c) Rabbit",
+            "d) Chair"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the next number in the sequence: 3, 6, 9, 12, __?",
+          "options": [
+            "a) 14",
+            "b) 15",
+            "c) 16",
+            "d) 18"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Which of the following shapes is different from the others: Circle, Square, Triangle, Oval, Hexagon?",
+          "options": [
+            "a) Circle",
+            "b) Square",
+            "c) Triangle",
+            "d) Oval"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the missing number in the sequence: 10, 20, __, 40, 50?",
+          "options": [
+            "a) 25",
+            "b) 30",
+            "c) 35",
+            "d) 45"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Which of the following words does not belong in the group: Red, Blue, Green, Chair, Yellow?",
+          "options": [
+            "a) Red",
+            "b) Blue",
+            "c) Green",
+            "d) Chair"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the sum of the numbers: 8, 15, 12, 9, 5?",
+          "options": [
+            "a) 35",
+            "b) 39",
+            "c) 41",
+            "d) 45"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "Which of the following shapes is not present in the sequence: Circle, Square, Triangle, Rectangle, Pentagon?",
+          "options": [
+            "a) Square",
+            "b) Triangle",
+            "c) Rectangle",
+            "d) Pentagon"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the missing letter in the sequence: B, D, F, H, __?",
+          "options": [
+            "a) J",
+            "b) K",
+            "c) L",
+            "d) M"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "What is the opposite of the word 'Happy'?",
+          "options": [
+            "a) Sad",
+            "b) Joyful",
+            "c) Content",
+            "d) Ecstatic"
+          ],
+          "answer": "a"
+        },
+        {
+          "question": "Which of the following is the odd one out: Apple, Banana, Orange, Pineapple, Chair?",
+          "options": [
+            "a) Apple",
+            "b) Banana",
+            "c) Orange",
+            "d) Chair"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the next number in the sequence: 2, 4, 8, 16, __?",
+          "options": [
+            "a) 20",
+            "b) 24",
+            "c) 32",
+            "d) 64"
+          ],
+          "answer": "c"
+        },
+        {
+          "question": "Which of the following shapes is different from the others: Circle, Square, Triangle, Oval, Star?",
+          "options": [
+            "a) Circle",
+            "b) Square",
+            "c) Triangle",
+            "d) Oval"
+          ],
+          "answer": "d"
+        },
+        {
+          "question": "What is the missing number in the sequence: 5, 10, __, 20, 25?",
+          "options": [
+            "a) 12",
+            "b) 15",
+            "c) 18",
+            "d) 22"
+          ],
+          "answer": "b"
+        },
+        {
+          "question": "What is the sum of the numbers: 6, 11, 14, 8, 3?",
+          "options": [
+            "a) 29",
+            "b) 34",
+            "c) 38",
+            "d) 42"
+          ],
+          "answer": "b"
+        },
+        {
+        "question": "You are facing difficulty in prioritizing tasks at work. What is the most effective problem-solving strategy?",
+          "options": [
+            "a) List all tasks and randomly choose one to start with.",
+            "b) Tackle the most urgent tasks first and then move on to less urgent ones.",
+            "c) Ignore the tasks and take a break until you feel motivated.",
+            "d) Delegate all tasks to your colleagues."
+          ],
+        "answer": "b"
+      },
+      {
+        "question": "You encounter a technical issue with your computer that you can't solve. What is the first step you should take?",
+        "options": [
+          "a) Panic and call IT support immediately.",
+          "b) Restart your computer and check if the issue persists.",
+          "c) Ignore the issue and continue working on other tasks.",
+          "d) Give up and switch to a different computer."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are trying to decide which career path to pursue after graduation. What should you do to solve this problem?",
+        "options": [
+          "a) Choose the career path that your friends recommend.",
+          "b) Conduct research, explore your interests and strengths, and seek advice from career counselors or professionals in your desired field.",
+          "c) Pick a career path randomly and hope for the best.",
+          "d) Avoid making a decision and continue studying without a clear goal in mind."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are part of a team working on a project, and there is a disagreement about the best approach to take. What is the most appropriate action?",
+        "options": [
+          "a) Give in to the majority opinion to avoid conflict.",
+          "b) Refuse to compromise and insist on your own approach.",
+          "c) Listen to all perspectives, weigh the pros and cons of each approach, and work together to find a solution that satisfies everyone.",
+          "d) Quit the team and work on the project alone."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You receive negative feedback from your supervisor about your performance on a recent project. What should you do to address this issue?",
+        "options": [
+          "a) Ignore the feedback and continue working as usual.",
+          "b) Become defensive and argue with your supervisor.",
+          "c) Reflect on the feedback, identify areas for improvement, and discuss strategies for improvement with your supervisor.",
+          "d) Blame others for the shortcomings in the project and avoid taking responsibility."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are struggling to manage your time effectively and often find yourself missing deadlines. What is a proactive solution to this problem?",
+        "options": [
+          "a) Ignore the deadlines and hope for the best.",
+          "b) Create a detailed schedule, prioritize tasks, and use time management techniques such as the Pomodoro Technique.",
+          "c) Wait until the last minute to start working on tasks.",
+          "d) Delegate all tasks to others and avoid taking responsibility for time management."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are experiencing conflicts with a coworker who has a different working style than yours. What is the best approach to resolve this conflict?",
+        "options": [
+          "a) Ignore the conflict and avoid interacting with the coworker.",
+          "b) Confront the coworker and demand that they change their working style.",
+          "c) Have an open and honest conversation with the coworker, listen to their perspective, and find a compromise that respects both of your working styles.",
+          "d) Complain to your supervisor and ask them to intervene."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are preparing for a job interview and are feeling nervous. What is a helpful problem-solving strategy to overcome your nerves?",
+        "options": [
+          "a) Cancel the interview and avoid the situation altogether.",
+          "b) Practice relaxation techniques such as deep breathing or meditation.",
+          "c) Focus on your weaknesses and worry about potential mistakes.",
+          "d) Assume you won't get the job and stop preparing."
+        ],
+        "answer":"b"
+      },
+      {
+        "question": "You are assigned a task at work that you have never done before and feel overwhelmed. What is the most constructive response?",
+        "options": [
+          "a) Refuse to do the task and complain to your supervisor.",
+          "b) Panic and procrastinate until the last minute.",
+          "c) Break the task down into smaller, manageable steps, seek guidance from colleagues or supervisors if needed, and tackle each step systematically.",
+          "d) Quit your job and find a new one that doesn't require unfamiliar tasks."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are trying to improve your public speaking skills but feel nervous whenever you have to speak in front of others. What is a proactive solution to this problem?",
+        "options": [
+          "a) Avoid public speaking opportunities and hope the fear goes away on its own.",
+          "b) Practice speaking in front of a mirror or with friends, join a public speaking club or take a course to build confidence and skills.",
+          "c) Give up and accept that you will never be good at public speaking.",
+          "d) Blame others for your fear of public speaking and refuse to work on improving it."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are struggling to balance your work and personal life, leading to stress and burnout. What is a constructive approach to addressing this issue?",
+        "options": [
+          "a) Quit your job and focus solely on your personal life.",
+          "b) Work longer hours to catch up on missed tasks and meet deadlines.",
+          "c) Set boundaries, prioritize self-care, and consider strategies such as time management, delegation, and seeking support from friends, family, or a counselor.",
+          "d) Ignore the stress and hope it goes away on its own."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are unhappy with your current job and considering a career change. What is the first step you should take?",
+        "options": [
+          "a) Quit your job immediately without a plan.",
+          "b) Research potential career options, explore your interests and strengths, and evaluate the feasibility of transitioning to a new career.",
+          "c) Stay in your current job and hope things get better.",
+          "d) Blame others for your unhappiness and avoid taking action."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are leading a team on a project that is falling behind schedule. What is an effective problem-solving strategy to get the project back on track?",
+        "options": [
+          "a) Ignore the delays and hope for the best.",
+          "b) Blame team members for the delays and threaten them with consequences.",
+          "c) Assess the root causes of the delays, identify solutions, allocate resources effectively, and communicate openly with the team to address the issues collaboratively.",
+          "d) Quit the project and let someone else deal with the problems."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are struggling to manage your finances and often find yourself overspending. What is a proactive solution to this problem?",
+        "options": [
+          "a) Ignore the problem and continue spending recklessly.",
+          "b) Create a budget, track your expenses, identify areas where you can cut back, and set financial goals to save money.",
+          "c) Borrow money from friends or family to cover your expenses.",
+          "d) Give up and resign yourself to a life of financial instability."
+        ],
+        "answer": "b"
+      },
+      {
+        "question": "You are preparing for a difficult conversation with a colleague about their poor performance. What is a helpful problem-solving strategy to navigate this conversation?",
+        "options": [
+          "a) Avoid the conversation altogether and hope the problem resolves itself.",
+          "b) Blame the colleague for their poor performance and criticize them harshly.",
+          "c) Plan the conversation in advance, focus on specific behaviors or outcomes, offer constructive feedback, and work together to identify solutions and set goals for improvement.",
+          "d) Complain to your supervisor and ask them to handle the conversation for you."
+        ],
+        "answer": "c"
+      },
+      {
+        "question": "You are faced with a difficult ethical dilemma at work. What is the most appropriate action to take?",
+        "options": [
+          "a) Ignore the ethical implications and prioritize personal gain.",
+          "b) Consult your colleagues for advice and follow their recommendations.",
+          "c) Consider the potential consequences of each course of action, seek guidance from supervisors or ethical experts if needed, and choose the option that aligns with your values and ethical principles.",
+          "d) Avoid making a decision and hope the problem resolves itself."
+        ],
+        "answer" :"c"
+      },
+      {
+        "question": "You are tasked with organizing a team-building event for your department. What is an effective problem-solving strategy to ensure the event is successful?",
+        "options": [
+          "a) Plan the event without consulting team members and hope they will enjoy it.",
+          "b) Cancel the event and blame budget constraints.",
+          "c) Solicit input from team members, identify their preferences and interests, collaborate on event planning, and incorporate team-building activities that promote engagement and cohesion.",
+          "d) Delegate the event planning to someone else and avoid taking responsibility."
+        ],
+        "answer" :"c"
+      },
+      {
+        "question": "You are struggling to understand a complex concept in your coursework. What is a proactive solution to improve your understanding?",
+        "options": [
+          "a) Give up and drop the course.",
+          "b) Avoid seeking help and continue struggling on your own.",
+          "c) Seek assistance from your instructor, classmates, or tutoring services, ask questions, review materials, and engage in active learning strategies such as practice problems or group study sessions.",
+          "d) Blame the instructor for their ineffective teaching methods and refuse to put in additional effort."
+        ],
+        "answer" :"c"
+      },
+      {
+        "question": "You are faced with a difficult ethical dilemma at work. What is the most appropriate action to take?",
+        "options": [
+          "a) Ignore the ethical implications and prioritize personal gain.",
+          "b) Consult your colleagues for advice and follow their recommendations.",
+          "c) Consider the potential consequences of each course of action, seek guidance from supervisors or ethical experts if needed, and choose the option that aligns with your values and ethical principles.",
+          "d) Avoid making a decision and hope the problem resolves itself."
+        ],
+        "answer": "c"
+      }
+
     ]
-}
+  }
