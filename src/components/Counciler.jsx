@@ -28,16 +28,16 @@ function Counciler() {
     return (
         <div className='card-tank'>
             {counselors.map((counselor, index) => (
-                <div className="card">
-                        <img src={emp} alt="Avatar" id='card-image' />
-                        <div className="card-container">
-                            <h4><b>{counselor.username}</b></h4>
-                            <p>{counselor.description}</p>
+                <div className="card" key={index}>
+                    <img src={emp} alt="Avatar" id='card-image' />
+                    <div className="card-container">
+                        <h4><b>{counselor.username}</b></h4>
+                        <p>{counselor.description}</p>
                         <NavLink key={index} to={`/counselor/${index + 1}`} className="linknav">
                             <button className='button-26'>Profile</button>
-                </NavLink>
-                        </div>
+                        </NavLink>
                     </div>
+                </div>
             ))}
         </div>
     );
