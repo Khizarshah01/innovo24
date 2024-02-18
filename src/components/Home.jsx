@@ -8,7 +8,7 @@ function Home() {
             <div className="container1">
                 <div className="content" id="cont1">
                     <h1>Are You Looking for Career Counselling Online?</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, natus officia obcaecati recusandae fugiat nam facilis quidem facere iure enim culpa ipsam doloremque mollitia, quod consequuntur. Similique magni quae excepturi!</p>
+                    <p>Welcome to our Online Career Counselling Platform, a comprehensive guide to help you navigate your professional journey with confidence and clarity. Our mission is to provide you with personalized guidance, resources, and support to make informed decisions about your career path.!</p>
                 </div>
                 <div className="content1Image">
                     <img src={communiation} alt="communinatoin" />
@@ -21,7 +21,7 @@ function Home() {
                 </div>
                 <div className="content" id="cont2">
                     <h1>Check Out over perfect counciler.</h1>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae fugiat dicta, perferendis repellat ipsa nostrum debitis quidem labore ipsam? Quia alias quam dolorem nesciunt accusantium. Quis aspernatur delectus error repellendus.</p>
+                    <p>Our team comprises certified career coaches, industry professionals, and psychologists who are dedicated to helping you make the right choices. They bring diverse experiences and insights to the table, ensuring a holistic approach to your career development.</p>
                     <button className="button-26">
                         <NavLink exact={"true"} to="/Councilers" id="button1">
                             Book Counciler

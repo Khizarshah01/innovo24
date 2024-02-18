@@ -7,6 +7,7 @@ function Council() {
               <div className="container1">
                 <div className="content" id="cont1">
                     <h1>Want to Check Your Knowledge ?</h1>
+                    <p>Welcome to our IQ Test, a powerful tool designed to measure and evaluate your cognitive abilities. This online assessment offers a unique opportunity to understand your intellectual strengths and areas for growth. Our IQ Test is based on scientifically proven methods and is accessible to everyone, regardless of their background or location.</p>
                     <p>Take an IQ Test Now!</p>
                     <NavLink exact={"true"} to="/Test" className="button-26">
                             Take Test
