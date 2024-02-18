@@ -7,8 +7,8 @@ function Home() {
         <div>
             <div className="container1">
                 <div className="content" id="cont1">
-                    <h1>Are You Looking for Career Counselling Online?</h1>
-                    <p>Welcome to our Online Career Counselling Platform, a comprehensive guide to help you navigate your professional journey with confidence and clarity. Our mission is to provide you with personalized guidance, resources, and support to make informed decisions about your career path.!</p>
+                    <h1>Are You Looking for Career Councling Online?</h1>
+                    <p>Welcome to our Online Career Councling Platform, a comprehensive guide to help you navigate your professional journey with confidence and clarity. Our mission is to provide you with personalized guidance, resources, and support to make informed decisions about your career path.!</p>
                 </div>
                 <div className="content1Image">
                     <img src={communiation} alt="communinatoin" />
