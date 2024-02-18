@@ -10,6 +10,12 @@ import Login from "./components/login";
 
 import CouncilPro from "./components/CounselorProfile";
 
+
+import { io } from "socket.io-client";
+
+
+const socket = io('<http://localhost:3000>');
+
 function App() {
     return (
         <BrowserRouter>
@@ -21,10 +27,11 @@ function App() {
                     <Route path="/council" element={<Council />} />
                     <Route path="/Councilers" element={<Counciler />}/>
                     <Route path="/Test" element={<Test />}/>
-
+                    
                     <Route path="/register" element={<Register />}/>
                     <Route path="/login" element={<Login />}/>
-                    <Route path="/CouncilProfile" element={<CouncilPro />} />
+                    <Route path="/counselor/:username" element={<CouncilPro />} />
+
 
                 </Routes>
             </div>

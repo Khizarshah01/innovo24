@@ -33,12 +33,12 @@ function Counciler() {
                     <div className="card-container">
                         <h4><b>{counselor.username}</b></h4>
                         <p>{counselor.description}</p>
-                        <NavLink key={index} to={`/counselor/${index + 1}`} className="linknav">
+                        <NavLink to={`/counselor/${counselor.username}`} className="linknav">
                             <button className='button-26'>Profile</button>
                         </NavLink>
                     </div>
                 </div>
-            ))}
+            ))};
         </div>
     );
 }

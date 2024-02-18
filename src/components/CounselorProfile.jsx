@@ -1,35 +1,46 @@
-import React from 'react';
-import '../style/CounelorProfile.css'; // Import your CSS file
-import avatar from './images/employee.svg'; // Import your default avatar image
+import React, { useState, useEffect } from 'react';
+import "../style/CounelorProfile.css"; // Assuming you have a CSS file for the counselor profile
+import emp from './images/employee.svg';
+import { useParams } from 'react-router-dom';
 
 const CounselorProfile = () => {
-  // Default dummy data for the counselor profile
-  const counselor = {
-    name: 'John Doe',
-    description: 'Architect & Engineer',
-    email: 'john.doe@example.com',
-    phone: '123-456-7890',
-    officeHours: 'Mon-Fri 9am-5pm',
-    location: '123 Main Street, Anytown, USA',
-    bio: 'John Doe is a licensed counselor with over 10 years of experience...',
-    // Add more details about the counselor here
-  };
+    const { username } = useParams(); // Get the counselor username from the URL parameter
+    const [counselor, setCounselor] = useState(null);
 
-  return (
-    <div className="counselor-profile">
-      <img src={avatar} alt="Counselor Avatar" className="avatar" />
-      <div className="profile-details">
-        <h2>{counselor.name}</h2>
-        <p><strong>Description:</strong> {counselor.description}</p>
-        <p><strong>Email:</strong> {counselor.email}</p>
-        <p><strong>Phone:</strong> {counselor.phone}</p>
-        <p><strong>Office Hours:</strong> {counselor.officeHours}</p>
-        <p><strong>Location:</strong> {counselor.location}</p>
-        <p>{counselor.bio}</p>
-        {/* Add more details about the counselor here */}
-      </div>
-    </div>
-  );
+    useEffect(() => {
+        const fetchCounselor = async () => {
+            try {
+                const response = await fetch(`http://localhost:6969/verified-counselors/${username}`);
+                console.log(username);
+                if (!response.ok) {
+                    throw new Error('Failed to fetch data');
+                }
+                const data = await response.json();
+                setCounselor(data);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        };
+
+        fetchCounselor();
+    }, [username]);
+
+    return (
+        <div className="counselor-profile">
+            {counselor ? (
+                <>
+                    <img src={emp} alt="Counselor Avatar" className="avatar" />
+                    <div className="profile-details">
+                        <h2>{counselor.username}</h2>
+                        <p><strong>Description:</strong> {counselor.description}</p>
+                        {/* Add more counselor details here */}
+                    </div>
+                </>
+            ) : (
+                <p>Loading...</p>
+            )}
+        </div>
+    );
 };
 
 export default CounselorProfile;
